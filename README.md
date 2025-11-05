@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hola, soy Brayan Chafloque Sandoval
 
-<!--
-**BrayanChafloque/BrayanChafloque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas en la UNMSM (Quinto Superior)  
+📊 Aspirante a Analista de Datos | Python · SQL · Power BI  
+🧠 Apasionado por la analítica, visualización y la toma de decisiones basada en datos  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- **Lenguajes:** Python, SQL, C/C++
+- **Herramientas:** Git, Power BI, Excel, Google Sheets, VS Code
+- **Bases de datos:** MySQL, SQL Server
+- **Modelado:** Bizagi, Rational Rose, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contacto
+- Email: brayanchafloque12@gmail.com  
+- LinkedIn: [linkedin.com/in/brayan-alexis-chafloque-sandoval-b11b89385](https://www.linkedin.com/in/brayan-alexis-chafloque-sandoval-b11b89385)
