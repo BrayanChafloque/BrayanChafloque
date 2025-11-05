@@ -6,7 +6,7 @@
 
 ## 🛠️ Tecnologías
 - **Lenguajes:** Python, SQL, C/C++
-- **Herramientas:** Git, Power BI, Excel, Google Sheets, VS Code
+- **Herramientas:** Github, Power BI, Excel, Google Sheets, VS Code
 - **Bases de datos:** MySQL, SQL Server
 - **Modelado:** Bizagi, Rational Rose, Figma
 
